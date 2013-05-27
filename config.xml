@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns  	= "http://www.w3.org/ns/widgets"
-	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.vaadin.phonegap.getting.started"
-	version 	= "2.7.0">
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.hello-world"
+        version   = "1.0.0">
 
 	<name>Mobile Mail app Building .apk file</name>
 
@@ -14,6 +16,10 @@
 		email="gondireddy999@gmail.com">
 		GMR
 	</author>
+	
+	<!-- Customize your app and platform with the preference element. -->
+    <preference name="phonegap-version"           value="2.7.0" />          <!-- all: current version of PhoneGap -->
+  
 
 	
 
