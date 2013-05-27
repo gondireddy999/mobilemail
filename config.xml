@@ -10,20 +10,11 @@
 		A template for getting started with PhoneGap wrapped Vaadin app and build.phonegap.com
 	</description>
 
-	<author href="http://mstahv.github.com"
+	<author href="https://github.com/gondireddy999"
 		email="gondireddy999@gmail.com">
 		GMR
 	</author>
 
-	<icon src="icon.png" gap:role="default" />
-
-	<feature name="gt2k8:8080/mobilemail"/>
-	<feature name="gt2k8:8080/mobilemail"/>
 	
-	<!-- These rules lets demo.vaadin.com take over the web view created by cordova/phonegap -->
-	<preference name="stay-in-webview" value="true" />
-	<access origin="gt2k8:8080/mobilemail" />
-	<!-- Vornitologist uses openstreetmap data as background map so we'll whitelist that as well -->
-	<access origin="http://openstreetmap.org" subdomains="true" />
 
 </widget>
