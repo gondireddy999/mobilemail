@@ -4,7 +4,7 @@
 	id		= "com.vaadin.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap packaged Vaadin app</name>
+	<name>Mobile Mail app Building .apk file</name>
 
 	<description>
 		A template for getting started with PhoneGap wrapped Vaadin app and build.phonegap.com
